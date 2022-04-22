@@ -1,0 +1,19 @@
+Tambahkan:
+- sudah mengulang berapa kali matkul tertentu
+alasannya apa/masalahnya apa
+- keuangan mahasiswa
+
+
+- naming project, package, class, variabel harus sesuai
+nama package sx: ac.ifunpas.psi2017.c.kel3.namaaplikasi.view
+nama package sx: ac.ifunpas.psi2017.c.kel3.namaaplikasi.controller
+nama package sx: ac.ifunpas.psi2017.c.kel3.namaaplikasi.model
+nama package sx: ac.ifunpas.psi2017.c.kel3.namaaplikasi.utilities (penanganan error)
+
+- harus sudah ada fitur login menggunakan enkripsi md5
+- harus ada crud terkait 1 tabel master dan 1 tabel transaksional
+- harus sudah menggunakan MVC
+- inputan menggunakan excel (read excel), teknologi => POI (poi.apache.org)
+POI => mengelola format dari microsoft office
+- tabel harus sudah di costumize, boleh menggunakan library
+- harus ada pesan kesalahan
